@@ -1,4 +1,4 @@
 enter starting value 
 30
 enter ending value 
-60
+100
